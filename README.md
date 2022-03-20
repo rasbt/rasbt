@@ -2,7 +2,7 @@
 
 and I am a machine learning and AI researcher with a strong passion for education!
 
-- ⚡️ As Lead AI Educator at Grid.ai and PyTorch Lightning, I am excited about making AI & deep learning more accessible and teaching people how to utilize AI & deep learning at scale .
+- ⚡️ As Lead AI Educator at Grid.ai and PyTorch Lightning, I am excited about making AI & deep learning more accessible and teaching people how to utilize AI & deep learning at scale.
 
 - 🎓 I am also an Assistant Professor of Statistics at the University of Wisconsin-Madison, focusing on deep learning and machine learning research. Have a look at my [research projects](https://sebastianraschka.com/publications/) if you'd like to find out more.
 
