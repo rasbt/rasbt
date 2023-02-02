@@ -11,7 +11,8 @@ and I am a machine learning and AI researcher with a strong passion for educatio
 
 If you are interested in more details, check out [my website](https://sebastianraschka.com)!  
 PS: 
-- 👨‍💻 You can also find me on Twitter [(@rasbt)](https://twitter.com/rasbt),  
+- 👨‍💻 You can also find me on Twitter [(@rasbt)](https://twitter.com/rasbt)
+- 🖇️ LinkedIn [in/sebastianraschka](https://www.linkedin.com/in/sebastianraschka/)
 - 📺  and [YouTube](https://youtube.com/c/SebastianRaschka)!
 
 
