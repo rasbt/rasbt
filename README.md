@@ -19,9 +19,10 @@ If you are interested in more details, check out [my website](https://sebastianr
 
 I am also more active on social platforms than I should be!
 
-- 🧵 [@sebastianraschka](https://www.threads.net/@sebastianraschka) on Threads
+- 📝 Substack [(@rasbt)](https://substack.com/@rasbt)
 - 👨‍💻 Twitter [(@rasbt)](https://twitter.com/rasbt)
 - 🖇️ LinkedIn [in/sebastianraschka](https://www.linkedin.com/in/sebastianraschka/)
+- 🧵 [@sebastianraschka](https://www.threads.net/@sebastianraschka) on Threads
 
 
 
