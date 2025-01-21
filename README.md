@@ -9,3 +9,4 @@ My work focuses on AI research, building practical tools, and sharing knowledge 
 - Blog: [Ahead of AI](https://magazine.sebastianraschka.com)  
 - Website: [sebastianraschka.com](https://sebastianraschka.com)  
 - Twitter/X: [@rasbt](https://twitter.com/rasbt)
+- LinkedIn: [in/sebastianraschka](https://linkedin.com/in/sebastianraschka)
